@@ -1,0 +1,27 @@
+/*Navbar*/
+.href{
+	color: white;
+
+}
+
+.href:hover{
+	color: #c3c3c3;
+    text-decoration: none;
+}
+/*Registro*/
+.imagen{
+	height: 240px;
+	width: auto;
+}
+
+/*Login*/
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+/*blog*/
+.padding{
+	padding: 15px;
+}
